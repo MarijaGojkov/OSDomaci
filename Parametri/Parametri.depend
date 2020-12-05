@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606091647 source:c:\users\neman\desktop\majac\parametri\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1606091918 c:\users\neman\desktop\majac\parametri\main.h
+	<windows.h>
+

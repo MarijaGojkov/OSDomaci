@@ -1,0 +1,5 @@
+EXPORTS
+    DllMain@12 @1
+    brojKarakteraUFajlu @2
+    brojKarakteraUReci @3
+    unos_osoba @4

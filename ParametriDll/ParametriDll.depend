@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606091808 source:c:\users\neman\desktop\majac\parametridll\main.cpp
+	"main.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1606091429 c:\users\neman\desktop\majac\parametridll\main.h
+	<windows.h>
+
